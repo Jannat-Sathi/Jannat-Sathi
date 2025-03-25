@@ -8,7 +8,7 @@
 
 I'm a Software Engineering student at Daffodil International University, passionate about competitive programming, web development, and data science. I love tackling complex problems, building efficient solutions, and learning new technologies along the way.
 
-Beyond coding, I enjoy nature photography and gardening—capturing beautiful moments and nurturing plants brings me joy. I'm always eager to learn and grow!
+Beyond coding, I enjoy nature photography and gardening,capturing beautiful moments and nurturing plants brings me joy. I'm always eager to learn and grow!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
