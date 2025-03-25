@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jannat Akter Sathi</h1>
 
-<h3 align="left">Software Engineer | Data Scientist </h3>
+<h3 align="left">Software Engineer</h3>
 
 🏠 Residence : Baroipara, Savar, Dhaka
 
